@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\User\\Downloads\\newUofA\\.NET-MVC-Application\\.NET-MVC-Application.csproj": {}
+    "C:\\Users\\User\\Downloads\\newUofA\\Commander\\Commander.csproj": {}
   },
   "projects": {
-    "C:\\Users\\User\\Downloads\\newUofA\\.NET-MVC-Application\\.NET-MVC-Application.csproj": {
+    "C:\\Users\\User\\Downloads\\newUofA\\Commander\\Commander.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\User\\Downloads\\newUofA\\.NET-MVC-Application\\.NET-MVC-Application.csproj",
-        "projectName": ".NET-MVC-Application",
-        "projectPath": "C:\\Users\\User\\Downloads\\newUofA\\.NET-MVC-Application\\.NET-MVC-Application.csproj",
+        "projectUniqueName": "C:\\Users\\User\\Downloads\\newUofA\\Commander\\Commander.csproj",
+        "projectName": "Commander",
+        "projectPath": "C:\\Users\\User\\Downloads\\newUofA\\Commander\\Commander.csproj",
         "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\User\\Downloads\\newUofA\\.NET-MVC-Application\\obj\\",
+        "outputPath": "C:\\Users\\User\\Downloads\\newUofA\\Commander\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
