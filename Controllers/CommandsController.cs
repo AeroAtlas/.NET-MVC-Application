@@ -11,7 +11,12 @@ namespace Commander.Controllers
   [ApiController]
   public class CommandsController : ControllerBase
   {
-    private readonly MockCommanderRepo _repository = new MockCommanderRepo();
+    private readonly ICommanderRepo _repository;
+
+    public CommandsController(ICommanderRepo repository)
+    {
+        _repository = repository; //dependency injected value put into private field
+    }
     //Adds Route for GET (GET api/commands)
     [HttpGet]
     public ActionResult <IEnumerable<Command>> GetAllCommands()
